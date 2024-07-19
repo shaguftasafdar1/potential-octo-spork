@@ -1,1 +1,1 @@
-# potential-octo-spork
+# my first repository about psychology
